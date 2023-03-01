@@ -1,0 +1,19 @@
+	{
+	  "choices": [
+	    {
+	      "finish_reason": null,
+	      "index": 0,
+	      "logprobs": null,
+	      "text": "\n\nProduct: White T-Shirt\nPrice: $14.99"
+	    }
+	  ],
+	  "created": 1677651164,
+	  "id": "cmpl-6p9zgVWFTMklfAuMTRKtkTHhz2u98",
+	  "model": "text-davinci-003",
+	  "object": "text_completion",
+	  "usage": {
+	    "completion_tokens": 16,
+	    "prompt_tokens": 11,
+	    "total_tokens": 27
+	  }
+	}
